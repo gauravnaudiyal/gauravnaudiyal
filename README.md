@@ -3,9 +3,8 @@
 MSc Computer Science @ Trinity College Dublin, I'm a CS grad student with a passion for **people, ideas, and technology** and not just code.
 
 ## Currently working: <br>
-On a unity vr multiplayer art gallery development project which can be found [here](https://github.com/World-Domination-Plan/Project_X) <br>
-A distributed system project which can be found [here](https://github.com/Tribunal-of-Human-Expansion) <br>
-A XR unity multiplayer themed project which can be found [here](https://github.com/gauravnaudiyal/social-vr-chat) <br>
+On my summer dissertation project which is [here](https://github.com/gauravnaudiyal/vr_haptics_project)
+
 
 I also like boxing, going out for a run, meeting up with people and going out for new experiences. <br>
 
