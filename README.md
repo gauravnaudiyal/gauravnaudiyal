@@ -7,9 +7,10 @@ On my summer dissertation project which is [here](https://github.com/gauravnaudi
 
 ## Group Projects :
 
-Distributed Systems : [click here](https://github.com/Tribunal-of-Human-Expansion)
+Distributed Systems : [click here](https://github.com/Tribunal-of-Human-Expansion) <br>
 Multiplayer VR Art Gallery: [click here](https://github.com/World-Domination-Plan/Project_X)
 
+<br>
 
 I also like boxing, going out for a run, meeting up with people and going out for new experiences. <br>
 
