@@ -8,7 +8,8 @@ On my summer dissertation project which is [here](https://github.com/gauravnaudi
 ## Group Projects :
 
 Distributed Systems : [click here](https://github.com/Tribunal-of-Human-Expansion) <br>
-Multiplayer VR Art Gallery: [click here](https://github.com/World-Domination-Plan/Project_X)
+Multiplayer VR Art Gallery: [click here](https://github.com/World-Domination-Plan/Project_X) <br>
+Social VR Chat : [click here](https://github.com/gauravnaudiyal/social-vr-chat)
 
 <br>
 
